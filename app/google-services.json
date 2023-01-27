@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124311901010",
+    "firebase_url": "https://buynow-d6059-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buynow-d6059",
+    "storage_bucket": "buynow-d6059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124311901010:android:474b29fdb1eda33982e08b",
+        "android_client_info": {
+          "package_name": "com.example.buynow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124311901010-jbglh1de7oklffh316j9g79rt88ujch6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buynow",
+            "certificate_hash": "a51e56505e4ca66d6d80def09d25ca6c156f47fb"
+          }
+        },
+        {
+          "client_id": "124311901010-hn461q1q8dlt92g5qnc7c84fs4c628vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5XIHL_V0YNsQ6QBQPYt1GeLJNh6gAjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124311901010-hn461q1q8dlt92g5qnc7c84fs4c628vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
